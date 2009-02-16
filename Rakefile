@@ -9,7 +9,7 @@ Hoe.new('ronin-example', Ronin::Example::VERSION) do |p|
   p.rubyforge_name = 'ronin-example'
   p.developer('Author', 'author@example.com')
   p.remote_rdoc_dir = ''
-  p.extra_deps = [['ronin', '>=0.1.4']]
+  p.extra_deps = [['ronin', '>=0.2.1']]
 end
 
 # vim: syntax=Ruby
