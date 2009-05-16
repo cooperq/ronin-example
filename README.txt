@@ -41,7 +41,7 @@ of Ronin.
 
 == REQUIREMENTS:
 
-* {ronin}[http://ronin.rubyforge.org/] >= 0.2.1
+* {ronin}[http://ronin.rubyforge.org/] >= 0.2.3
 
 == INSTALL:
 
