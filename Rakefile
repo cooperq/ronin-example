@@ -3,7 +3,6 @@
 require 'rubygems'
 require 'hoe'
 require './tasks/spec.rb'
-require './lib/ronin/example/version.rb'
 
 Hoe.spec('ronin-example') do
   self.rubyforge_name = 'ronin-example'
