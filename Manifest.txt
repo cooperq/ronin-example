@@ -3,7 +3,6 @@ COPYING.txt
 Manifest.txt
 README.txt
 Rakefile
-TODO.txt
 bin/ronin-example
 lib/ronin/example.rb
 lib/ronin/example/version.rb
