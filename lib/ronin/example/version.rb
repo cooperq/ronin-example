@@ -21,6 +21,7 @@
 
 module Ronin
   module Example
+    # Ronin Example version
     VERSION = '0.1.0'
   end
 end
