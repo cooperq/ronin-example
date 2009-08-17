@@ -2,7 +2,7 @@
 
 * http://ronin.rubyforge.org/example/
 * http://github.com/postmodern/ronin-example
-* irc.freenode.net ##ronin
+* irc.freenode.net #ronin
 * Author (author at example.com)
 
 == DESCRIPTION:
