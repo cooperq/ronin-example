@@ -7,5 +7,6 @@ bin/ronin-example
 lib/ronin/example.rb
 lib/ronin/example/version.rb
 tasks/spec.rb
+tasks/yard.rb
 spec/spec_helper.rb
 spec/example_spec.rb
