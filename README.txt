@@ -37,6 +37,10 @@ install or update Overlays.
 
 == FEATURES:
 
+== SYNOPSIS:
+
+== EXAMPLES:
+
 == REQUIREMENTS:
 
 * {ronin}[http://ronin.rubyforge.org/] >= 0.2.3
