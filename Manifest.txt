@@ -9,4 +9,5 @@ lib/ronin/example/version.rb
 tasks/spec.rb
 tasks/yard.rb
 spec/spec_helper.rb
+spec/helpers/database.rb
 spec/example_spec.rb
