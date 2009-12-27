@@ -6,6 +6,7 @@ require './tasks/spec.rb'
 require './tasks/yard.rb'
 
 Hoe.spec('ronin-example') do
+  self.rubyforge_name = 'ronin-example'
   self.developer('Author', 'author@example.com')
   self.readme_file = 'README.rdoc'
   self.history_file = 'History.rdoc'
