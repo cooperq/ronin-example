@@ -6,7 +6,6 @@ require 'hoe'
 Hoe.plugin :yard
 
 Hoe.spec('ronin-example') do
-  self.rubyforge_name = 'ronin-example'
   self.developer('Author', 'author@example.com')
 
   self.rspec_options += ['--colour', '--format', 'specdoc']
