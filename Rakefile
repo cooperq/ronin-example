@@ -12,7 +12,7 @@ Hoe.spec('ronin-example') do
 
   self.yard_title = 'Ronin Example Documentation'
   self.yard_options += ['--protected']
-  self.remote_rdoc_dir = ''
+  self.remote_yard_dir = ''
 
   self.extra_deps = [
     ['ronin', '>=0.4.0']
