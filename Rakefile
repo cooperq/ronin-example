@@ -15,7 +15,7 @@ Hoe.spec('ronin-example') do
   self.remote_rdoc_dir = ''
 
   self.extra_deps = [
-    ['ronin', '>=0.3.0']
+    ['ronin', '>=0.4.0']
   ]
 
   self.extra_dev_deps = [
